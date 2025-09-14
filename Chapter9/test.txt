@@ -1,0 +1,3 @@
+Write a program that asks the users for the name of a file.
+The programs should displays the number of words that the file contains.
+test me.
