@@ -1,0 +1,28 @@
+		Your Information:
+		-----------------------------------------------------------------------------------------------------
+		Name            : Hung Anh Ho
+		Birth date      : Wednesday, March 3rd, 1999
+		Age             : 23
+		Zodiac sign     : Rabbit
+		Characteristics : kind-hearted, friendly, intelligent, cautious, skillful, and gentle
+
+		You are highly compatible with:
+		-----------------------------------------------------------------------------------------------------
+		Name            : Carl Childress
+		Birth date      : Friday, January 1st, 1999
+		Age             : 23
+		Zodiac sign     : Rabbit
+		Characteristics : kind-hearted, friendly, intelligent, cautious, skillful, and gentle
+
+		Name            : Jose Corona
+		Birth date      : Monday, May 5th, 2003
+		Age             : 19
+		Zodiac sign     : Goat
+		Characteristics : polite, mild mannered, shy, imaginative, determined and well-mannered
+
+		Name            : Jimmy Acosta
+		Birth date      : Sunday, September 9th, 2007
+		Age             : 15
+		Zodiac sign     : Pig
+		Characteristics : happy, easygoing, honest, trusting, educated, sincere and brave
+
